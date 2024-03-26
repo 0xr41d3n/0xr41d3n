@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Achraf Chakir aka @0xr41d3n I'am currently ranked 26th worldwide in cybertalents and 1st in Morocco 
+- 👋 Hi, I’m Achraf Chakir aka @0xr41d3n I'am currently ranked 26th worldwide and 1st in Morocco in cybertalents 
 - 👀 I’m interested in Cyber Security and Cloud Computing
 - 🌱 I’m currently work with Python C++ mongodb javascriptES6 Java PHP8
 - 💞️ I’m looking to collaborate on Back end Developement , Malware Analysis , code Review and CTF challenges .
