@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Achraf CHAKIR and I'm currently interseted in Cyber Secuity , Devops and Cloud computing</p>
+<p align="left">My name is Achraf CHAKIR and I'm currently interseted in Cyber Secuity , Devops and Cloud computing.</p>
 
 ###
 
