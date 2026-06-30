@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Achraf CHAKIR and I'm currently intereseted in Cyber Secuity , Devops and Cloud computing.</p>
+<p align="left">My name is Achraf CHAKIR and I'm currently intereseted in Cyber Secuity and Cloud computing.</p>
 
 ###
 
@@ -34,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
